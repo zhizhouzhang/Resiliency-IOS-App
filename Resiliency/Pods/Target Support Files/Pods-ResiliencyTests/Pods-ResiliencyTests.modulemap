@@ -1,0 +1,6 @@
+framework module Pods_ResiliencyTests {
+  umbrella header "Pods-ResiliencyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
